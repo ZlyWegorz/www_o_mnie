@@ -1,2 +1,2 @@
 # www_o_mnie
-**Strona o Wiktorze**
+**Strona o Walce o wolnosć narodu**
