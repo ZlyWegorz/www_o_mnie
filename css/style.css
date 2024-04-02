@@ -1,18 +1,3 @@
-h1 {
-    color: green;
-}
-p {
-    color: red
-}
-
-h3 {
-    text-decoration: dotted;
-}
-
-img {
-    width: 40%;
-    height: auto;
-}
 body {
-  color: lightblue;
+  background-color: lightblue;
 }
