@@ -1,3 +1,15 @@
 body {
   background-color: lightblue;
 }
+p {
+    color: red
+}
+
+h3 {
+    text-decoration: dotted;
+}
+
+img {
+    width: 40%;
+    height: auto;
+}
