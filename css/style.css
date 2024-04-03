@@ -10,6 +10,10 @@ img {
     width: 40%;
     height: auto;
 }
-body{
-background-color: aqua;
+
+body {
+    background-color: aqua;
+}
+h2 {
+    color:beige
 }
