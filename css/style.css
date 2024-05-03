@@ -70,3 +70,10 @@ h2 {
     text transform: uppercase;
     -webkit-text-stroke: 2px #b503fc
 }
+
+fieldset
+{ 
+border: solid 5px #080808;
+background-color:rgb(244, 244, 238) !important;
+
+}
