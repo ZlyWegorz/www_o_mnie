@@ -75,5 +75,43 @@ fieldset
 { 
 border: solid 5px #080808;
 background-color:rgb(244, 244, 238) !important;
-
 }
+
+ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    justify-content: center;
+    }
+        
+   ul li a {
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 1.2em;
+    width: 130px;
+    text-decoration: none;
+    color: rgb(18, 18, 18);
+    background-color: rgb(176, 176, 180);
+    padding: 10px 15px;
+    margin: 0px 1px 1px 0px;
+    border: 1px solid rgb(233, 233, 240);
+    border-radius: 3px;
+    box-shadow: 0px 2px 3px gray;
+    }
+
+    li a:hover {
+        color: rgb(248, 248, 252);
+        background: rgb(0, 0, 0);
+        border: 1px solid rgb(255, 255, 255);
+        }
+        
+    section {
+        text-align: center;
+    }
+    
+    nav {
+        text-align: center;
+    }
